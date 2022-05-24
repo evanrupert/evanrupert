@@ -31,6 +31,7 @@ I mostly work on DevOps, Web Development, and optimizing how development teams w
 [![](https://img.shields.io/badge/-DevPost-informational?style=flat&logo=devpost&logoColor=white&color=1F78D1)](https://devpost.com/EvanRupert)
 [![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/evanrupert)
 
+Thanks to [github-stats](https://github.com/jstrieb/github-stats) for the cool profile stat blocks.
 
 <!--
 **evanrupert/evanrupert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
